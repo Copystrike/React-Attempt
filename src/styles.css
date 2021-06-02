@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.NavigationBar li {
+  display: inline-block;
+  min-width: 20%;
+}
+
+.NavigationBar ul {
+  text-align: center;
+}
